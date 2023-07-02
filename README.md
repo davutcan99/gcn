@@ -44,9 +44,7 @@ Follow these steps to use the script:
 
 - The provided code is a basic implementation. You can modify and extend it according to your specific needs.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and use it according to your requirements.
 
 ## Acknowledgments
 
